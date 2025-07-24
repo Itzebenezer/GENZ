@@ -12,7 +12,7 @@ Getting started is easy — just clone, build, and boot.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Itzebenezer/GENZ
+[git clone https://github.com/Itzebenezer/GENZ](https://github.com/Itzebenezer/GENZ.git)
 
 # 2. Enter the project folder
 cd GENZ
