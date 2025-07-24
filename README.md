@@ -8,7 +8,7 @@ If you just want to try it out you can get a prebuilt .iso from the releases sec
 
 ## How to Build & Run
 
-Getting started is easy — just clone, build, and boot.
+Just copy and pest the following cmd to you terminal(linux)
 
 ```bash
 # 1. Clone the repo
