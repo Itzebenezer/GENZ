@@ -1,12 +1,17 @@
-## GENZ 
+## GenZ V0.2(final edition)
+GenZ is a minimalist os written almost entirely in x86 assembly except for the bootloader. It was work in progress thanks to triplet fault, the entire OS is under 10KB(more like the kernel)
+GenZ isn't fully operational yet it's not even halfway there. I wam actively refining it with each update until i get into file system and gui stuffs.
+This update is going to be my final on this project. It is taken a huge amount of time(specially when it comes to finding resource), trial and error and digging for the right resources is almost impossible.
 
-GENZ is a tiny os written almost entirely in x86 assembly except the bootloader. it is still in progress but once it's complete, the whole system (with some extra features) will weigh in at under 10KB.
-sadly GENZ is n’t a fully working os just yet its not even halfway there.but updates are coming fast. I am actively improving it as i go.
-I started GENZ as a fun hobby project to see how far i could go with pure assembly. along the way i even wrote a book documenting the entire process hopefully i will be sharing it with you soon.
+## UPDATE:
+
+    I added a basic filesystem... well kinda it has some working functionality to it
+    i tried adding a gui but sadly it wasnt possible given the constraints and direction of the project
+    There is still more I wanted to do, but i cant mainly cause of lack of resources and this might be my final big update.
 
 If you just want to try it out you can get a prebuilt .iso from the releases section.
 
-## How to Build & Run
+## How to Build & Ru
 
 Just copy and paste the following cmd to you terminal(linux)
 
