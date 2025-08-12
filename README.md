@@ -3,7 +3,7 @@
 ## GenZ V0.2(final edition)
 GenZ is a minimalist os written almost entirely in x86 assembly except for the bootloader. It was work in progress thanks to triplet fault, the entire OS is under 10KB(more like the kernel)
 GenZ isn't fully operational yet it's not even halfway there. I wam actively refining it with each update until i get into file system and gui stuffs.
-This update is going to be my final on this project. It is taken a huge amount of time(specially when it comes to finding resource), trial and error and digging for the right resources is almost impossible.
+This update is going to be my final on this project. It is taken a huge amount of time(specially when it comes to finding resource), trial and error and digging for the right resources has become impossible.
 
 ## UPDATE:
 
